@@ -1,18 +1,19 @@
-
-# COVID-19 Data Analysis Project
+# 🦠 COVID-19 Analysis
 
 ## Objective
-To analyze and forecast COVID-19 trends using real-world data.
+Analyze global COVID trends.
 
-## Tools Used
-- Python (Pandas, Matplotlib, Seaborn)
-- Google Colab
+## Dataset
+Johns Hopkins dataset  
 
-## Key Insights
-- Exponential growth in confirmed and active cases
-- Recovery rate improved over time
-- Death rate remained relatively controlled
+## Insights
+- Cases grew exponentially  
+- Recovery improved over time  
 
-## Files Included
-- Jupyter Notebook (.ipynb)
-- PDF Report
+## Tools
+Python  
+
+## How to Run
+git clone <repo-link>  
+pip install -r requirements.txt  
+jupyter notebook
